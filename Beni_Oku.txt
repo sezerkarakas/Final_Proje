@@ -1,0 +1,5 @@
+Oyunda "W" ile yürünüyor, "A" ve "D" tuşları sadece yön değiştirmeye yarıyor.
+"S" tuşunu geri gitmesi için ayarlamaya çalıştım fakat animasyonla iyi gözükmediği için kaldırdım. 
+Mantarları üstlerine giderek toplayabilirsiniz. 
+Mantarları toplamanız için üstlerine gidip "Space" tuşu ile vurmanız gerekiyordu ama tam olarak sağ kolu mantarın içine sokmanız gerekitiği için o kısmı tam olarak ayarlayamadığım için sadece vuruş animasyonu var. 
+Oyunda 12 tane mantar etrafa dağıtılmıştır. Onları bulursanız kazanırsınız.
